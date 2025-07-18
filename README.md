@@ -11,7 +11,7 @@ Use this rule bank to improve query quality, accelerate development timelines, a
 
 **clinerules-bank** is an open-source repository of curated best practice rules designed for modern data systems. It provides structured `.clinerule` files for popular frameworks, query engines, and table formats such as Apache Spark, Trino, Flink, Iceberg, Delta Lake, and more.
 
-Each rule encapsulates expert guidance for detecting performance bottlenecks, validating configurations, enforcing coding standards, and catching common anti-patterns early in development. These rules are written to be directly usable with [Cline](https://github.com/ClineHQ/cline), a command-line assistant for intelligent code and config analysis.
+Each rule encapsulates expert guidance for detecting performance bottlenecks, validating configurations, enforcing coding standards, and catching common anti-patterns early in development. These rules are written to be directly usable with [Cline](https://github.com/cline/cline), a command-line assistant for intelligent code and config analysis.
 
 By adopting `clinerules-bank`, engineering teams can significantly reduce debugging time, improve data pipeline reliability, and accelerate onboarding of new developers. The rule engine acts like an automated reviewer, proactively flagging issues before they reach production.
 

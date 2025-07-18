@@ -1,7 +1,7 @@
 # 🔍 clinerules-bank
 
 **clinerules-bank** is a curated collection of best practice rules for Apache Spark, Trino, Flink, Iceberg, Delta Lake, and more.  
-Built for use with [Cline](https://github.com/ClineHQ/cline), it helps developers catch anti-patterns, misconfigurations, and performance issues early in the development cycle.
+Built for use with [Cline](https://github.com/cline/cline), it helps developers catch anti-patterns, misconfigurations, and performance issues early in the development cycle.
 
 Use this rule bank to improve query quality, accelerate development timelines, and enforce consistency across teams — whether you're building batch pipelines, streaming apps, or lakehouse systems.
 
